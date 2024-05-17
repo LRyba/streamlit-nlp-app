@@ -1,0 +1,7 @@
+streamlit==1.34.0
+transformers==4.40.2
+matplotlib==3.9.0
+sentencepiece==0.2.0
+tensorflow==2.16.1
+pandas==2.2.2
+tf-keras==2.16.0
